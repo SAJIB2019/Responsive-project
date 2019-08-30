@@ -1,0 +1,269 @@
+/* Author Name : Sohel Rana sajib.
+	Author info : sajib.sohelrana21@gmail.com
+*/
+
+/*
+
+======Index======
+1. Fusce at
+2. Facilisis
+3. Ante donec
+4. Blandit rhoncus
+5. Placerat
+=================
+*/
+
+/*==========Global css start===========*/
+
+h2 {
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	text-align: center;
+
+}
+
+h6 {
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: 20px;
+}
+
+p {
+	font-family: 'Roboto Slab', serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: 7px;
+
+}
+
+.btn-one {
+    background: #fff;
+    margin: auto;
+    color: #d85726;
+    margin-top: 70px;
+    padding: 12px 35px;
+    border-radius: 23px;
+    margin-bottom: 150px;
+}
+
+.btn-two {
+    background: #fff;
+    color: #31353e;
+    border-radius: 23px;
+    padding: 12px 35px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+/*============Global css end=============*/
+
+/*============Theme css start============*/
+
+/*=====Navbar css start=====*/
+.navbar-new {
+    background-color: #edeff1;
+    padding: 25px;
+}
+
+.nav-link {
+	color: #161616!important;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff!important;
+    border-radius: 27px 27px;
+    padding: 10px 39px;
+}
+
+/*=====Navbar css end=======*/
+
+/*=====hero section start======*/
+.hero {
+	background: url(../img/cover.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.hero-top {
+    padding-top: 500px;
+}
+
+.one {
+    text-align: center;
+    padding-top: 250px;
+}
+
+.ccone {
+    border-radius: 50%;
+}
+
+.cover-padding {
+    padding-top: 164px;
+}
+
+/*=====hero section end=======*/
+
+
+/*=====Our News section start========*/
+
+.our-news {
+	background-color: #edeff1;
+	text-align: center;
+}
+
+.ss-heading {
+    color: #31353e;
+    padding: 60px;
+}
+
+.ss-padding {
+    color: #31353e;
+    padding: 20px;
+}
+
+.ssp {
+    color: #31353e;
+    padding-bottom: 15px;
+}
+
+/*========Our News section end========*/
+
+/*========News letter section start=======*/
+
+.news-letter {
+    background: url(../img/sthreecover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 263px;
+}
+
+.st-padding {
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.st-paragraph {
+    font-family: 'Roboto Slab', serif;
+    color: #e5e6e5;
+    text-align: center;
+    font-size: 7px;
+    padding-top: 5px;
+}
+.btn-three {
+	background: #fff;
+    color: #d85726;
+    padding: 9px 35px;
+    border-radius: 23px;
+    display: block;
+    margin: 0 auto;
+}
+
+.st-email {
+    border-radius: 23px;
+    padding: 9px 46px;
+    background: #ffffff52;
+    display: block;
+    margin: 0 auto;
+}
+
+.email-hover {
+    width: 100%;
+    position: relative;
+    margin-top: 20px;
+}
+
+.email-hover-content {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 25%;
+}
+
+/*========News letter section end=========*/
+
+/*========Profile section start===========*/
+
+.profile {
+    padding: 40px;
+}
+
+.btn-four {
+	background: #dd4b2b;
+    color: #31353e;
+    border-radius: 23px;
+    padding: 12px 35px;
+    display: block;
+    margin: 0 auto;
+}
+
+.btn-five {
+    background: #4b4e73;
+    color: #fff;
+    border-radius: 23px;
+    padding: 12px 35px;
+    display: block;
+    margin: 0 auto;
+}
+
+.profile-picture {
+    background: url(../img/profileone.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 31px;
+}
+.profile-picturee {
+	background: url(../img/profiletwo.jpg);
+	background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 31px;
+}
+
+/*========Profile section end=============*/
+
+/*========Service section start===========*/
+
+.service {
+	background-color: #d75d0e;
+}
+
+.service-content {
+    background: url(../img/sfivecover.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 225px;
+}
+
+.ul-content {
+    list-style: none;
+    padding: 65px;
+    text-align: center;
+}
+
+.service-paragraph {
+	padding: 101px;
+}
+
+
+
+/*========Service section end=============*/
+
+/*============Theme css end===============*/
